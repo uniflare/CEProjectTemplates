@@ -1,0 +1,26 @@
+This is the master branch. It contains no code but only serves the 
+single purpose to inform you that all the sample project templates are 
+separate branches in this repo.
+
+Each sample contains a different template structure.
+
+====
+** EXAMPLES **
+===
+
+[BlankThirdPartyLib]
+A simple skeleton library to use in the samples.
+
+[CMakeMultiPluginExample] CE 5.3/CE 5.4+
+Most functional sample. Example illustrates how to confirgure your cmake 
+files to be compatible with more complex projects and as many engine 
+versions as possible.
+
+[CMakePluginWithLib] CE 5.3
+Simple Cryengine Plugin with 3rd Party Library.
+Illustrates simple third party library integration.
+
+[CMakePluginWithModule] CE 5.3
+Simple Cryengine Plugin with Engine Extensions.
+This is an alternative to pure ICryPlugin implementations.
+Possibly easier to integrate this as a static lib.
