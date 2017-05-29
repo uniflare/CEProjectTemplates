@@ -24,3 +24,7 @@ Illustrates simple third party library integration.
 Simple Cryengine Plugin with Engine Extensions.
 This is an alternative to pure ICryPlugin implementations.
 Possibly easier to integrate this as a static lib.
+
+===
+
+LICENSE holds for any branches here-in.
