@@ -1,0 +1,9 @@
+/gamezero/*
+/Backup/*
+/bin/*
+/logbackups/*
+/Solutions/*
+/user/*
+/*.log
+error*
+/*.lnk

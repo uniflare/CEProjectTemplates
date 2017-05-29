@@ -1,0 +1,3 @@
+C++;Multi_Plugin_Example;Multi_Plugin_Example;bin/win_x64/MultiPluginExample.dll;gamezero
+C++;ExampleImpl_A;ExampleImpl_A;bin/win_x64/ExampleImpl_A.dll;gamezero
+C++;ExampleImpl_B;ExampleImpl_B;bin/win_x64/ExampleImpl_B.dll;gamezero
